@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 05.10.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -82,16 +82,13 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-10-05 140507.png>)
-![alt text](<Screenshot 2025-10-05 143913.png>)
-![alt text](<Screenshot 2025-10-05 143937.png>)
-![alt text](<Screenshot 2025-10-05 143954.png>)
+![alt text](<Screenshot 2025-10-05 190921.png>)
 
+![alt text](<Screenshot 2025-10-05 190952.png>)
 
+![alt text](<Screenshot 2025-10-05 191006.png>)
 
-
-
-
+![alt text](<Screenshot 2025-10-05 191019.png>)
 
 
 ## RESULT
